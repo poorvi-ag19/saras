@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer-container">
       <div className="footer-column">
-        <img src={require('../img/logo1.jpg')} alt="Company Logo" className="footer-logo" />
+        
       </div>
       
       <div className="footer-column">

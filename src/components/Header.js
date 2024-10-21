@@ -7,7 +7,7 @@ const Header = () => {
     <header className="header-container">
       {/* Left: Logo and Company Name */}
       <div className="logo-container">
-        <img src={require('../img/logo1.jpg')} alt="Company Logo" className="logo" />
+        
               </div>
 
       {/* Center: Navbar */}
