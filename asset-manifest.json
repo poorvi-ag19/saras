@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saras/static/css/main.6a3ef8be.css",
+    "main.js": "/saras/static/js/main.b47cb6ed.js",
+    "static/js/453.9fd3c86e.chunk.js": "/saras/static/js/453.9fd3c86e.chunk.js",
+    "static/media/faq-banner.jpg": "/saras/static/media/faq-banner.62e0bc8d770bfd34ef52.jpg",
+    "index.html": "/saras/index.html",
+    "main.6a3ef8be.css.map": "/saras/static/css/main.6a3ef8be.css.map",
+    "main.b47cb6ed.js.map": "/saras/static/js/main.b47cb6ed.js.map",
+    "453.9fd3c86e.chunk.js.map": "/saras/static/js/453.9fd3c86e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3ef8be.css",
+    "static/js/main.b47cb6ed.js"
+  ]
+}
